@@ -63,3 +63,12 @@ h1{
 .button1:hover{
     cursor:pointer;
 }
+.container1{
+    border: 2px solid;
+    width: 571px;
+    position: relative;
+    left: 40%;
+    top: 180px;
+    background-color:  #232335;
+    border-radius: 22px;
+}
