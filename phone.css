@@ -1,0 +1,18 @@
+ /* for making it responsive */
+body{
+    background-color: black;
+    color: white;
+}
+.button{
+    padding: 20px;
+    font-size: 21px;
+    width: 62px;
+}
+#text-area{
+    width: 307px;
+}
+h1{
+    color: white;
+    font-size: 25px;
+    margin: 0px;
+}
