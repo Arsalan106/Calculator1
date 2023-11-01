@@ -51,12 +51,15 @@ body::before{
 h1{
     font-size: 45px;
 }
-.button{
-      background-color: red;
+.button1{
+    background-color: red;
     padding: 37px;
     font-size: 35px;
     border-radius: 15px;
     width: 358px;
     margin: 8px;
     border: 4px solid black;
+}
+.button1:hover{
+    cursor:pointer;
 }
